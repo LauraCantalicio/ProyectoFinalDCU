@@ -4,6 +4,7 @@ include ('../app/config/conexion.php');
 
 include('../layout/admin/sesion.php');
 include('../layout/admin/datos_sesion_user.php');
+
 ?>
 
 <?php include ('../layout/admin/parte1.php');?>
@@ -14,7 +15,8 @@ include('../layout/admin/datos_sesion_user.php');
                     <!-- El resto de tu código HTML va aquí -->
                         <!-- El resto de tu código HTML va aquí -->
 
-
+   <!-- El resto de tu código HTML va aquí -->   <!-- El resto de tu código HTML va aquí -->   <!-- El resto de tu código HTML va aquí -->
+      <!-- El resto de tu código HTML va aquí -->
     <!-- El resto de tu código HTML va aquí -->
     <div class="content-wrapper">
     <div class="content-header">

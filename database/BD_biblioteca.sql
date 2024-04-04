@@ -50,5 +50,9 @@ CREATE TABLE tb_areas(
     estado                  VARCHAR (11)    NOT NULL
 );
 
+<<<<<<< HEAD
 CREATE TABLE tb_areas();
 CREATE TABLE tb_areas();
+=======
+CREATE TABLE tb_area();
+>>>>>>> hoxfit/error-criticologin
