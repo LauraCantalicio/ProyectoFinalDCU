@@ -14,6 +14,12 @@ include ('../app/config/conexion.php');
     <!-- Font Awesome -->
       <!-- Font Awesome -->
         <!-- Font Awesome -->
+              <!-- Font Awesome -->
+        <!-- Font Awesome -->
+              <!-- Font Awesome -->
+        <!-- Font Awesome -->
+              <!-- Font Awesome -->
+        <!-- Font Awesome -->
     <link rel="stylesheet" href="<?php echo $URL;?>/public/plugins/fontawesome-free/css/all.min.css">
     <!-- icheck bootstrap -->
     <link rel="stylesheet" href="<?php echo $URL;?>/public/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
