@@ -7,7 +7,12 @@ include('../layout/admin/datos_sesion_user.php');
 ?>
 
 <?php include ('../layout/admin/parte1.php');?>
-
+    <!-- El resto de tu código HTML va aquí -->
+        <!-- El resto de tu código HTML va aquí -->
+            <!-- El resto de tu código HTML va aquí -->
+                <!-- El resto de tu código HTML va aquí -->
+                    <!-- El resto de tu código HTML va aquí -->
+                        <!-- El resto de tu código HTML va aquí -->
 
 
     <!-- El resto de tu código HTML va aquí -->
@@ -16,7 +21,13 @@ include('../layout/admin/datos_sesion_user.php');
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1 class="m-0">Bienvenido</h1>
+                    <h1 class="m-0">Bienvenidos</h1>
+                </div><!-- /.col -->
+            </div><!-- /.row -->
+            <div class="row"></div>
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1 class="m-0">Bienvenidos</h1>
                 </div><!-- /.col -->
             </div><!-- /.row -->
             <div class="row"></div>
