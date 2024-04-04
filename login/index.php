@@ -7,7 +7,7 @@ include ('../app/config/conexion.php');
 <head>
     <meta charset="utf-8">
     <meta name="viewport" conten="width=device-width, initial-scale=1">
-    <title>Clinify Mendez</title>
+    <title>Clinica Mendez</title>
 
     <!-- Google Font: Source Sans Pro -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -23,7 +23,7 @@ include ('../app/config/conexion.php');
     <!-- /.login-logo -->
     <div class="card card-outline card-info">
         <div class="card-header text-center">
-            <a href="../../index2.html" class="h1"><p class="text-info"><b>CLINIFY</b></p>Mendez</a>
+            <a href="../../index2.html" class="h1"><p class="text-info"><b>CLINICA</b></p>Mendez</a>
             
         </div>
         <div class="card-body">
