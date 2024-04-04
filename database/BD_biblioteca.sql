@@ -51,3 +51,4 @@ CREATE TABLE tb_areas(
 );
 
 CREATE TABLE tb_areas();
+CREATE TABLE tb_areas();
