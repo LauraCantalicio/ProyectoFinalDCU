@@ -54,7 +54,7 @@ include ('../app/config/conexion.php');
                     </div>
                 </div>
                 <div class="form-group">
-                    <a href="" class="btn btn-secondary btn-block">Cancelar</a>
+                    <a href="" class="btn btn-secondary btn-block">Cancelacion</a>
                     <button type="submit" class="btn btn-warning btn-block">Ingreso</button>
                     <button type="submit" class="btn btn-success btn-block">Registro</button>
                 </div>
