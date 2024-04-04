@@ -50,3 +50,4 @@ CREATE TABLE tb_areas(
     estado                  VARCHAR (11)    NOT NULL
 );
 
+CREATE TABLE tb_areas();
